@@ -16,3 +16,5 @@ Inside of each folder of this apps you can found an script run.sh, so you just n
 
 When you will have running this 3 containers in your machine you can run the attack in the web GUI of Gremlin
 
+NOTE: You need to export the environment variables: GREMLIN_TEAM_ID and GREMLIN_TEAM_SECRET of your user. You can found this data in: Company Settings > Select the default user created
+

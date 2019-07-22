@@ -1,3 +1,3 @@
 #!/bin/bash
-export GREMLIN_TEAM_ID=46ce318a-32c2-5bde-8609-bf95976b6e1e
-export GREMLIN_TEAM_SECRET=5473b711-7afe-4125-b3b7-117afe312522
+export GREMLIN_TEAM_ID=<replace-for-your-team-id>
+export GREMLIN_TEAM_SECRET=<replace-for-your-secret>
